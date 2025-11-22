@@ -1,4 +1,5 @@
 #                  Student Depression Analysis Project
+![Student Depression](DEPRES.png)
 
 ##  📋 Description du Projet
 Ce projet vise à analyser les facteurs influençant la dépression chez les étudiants à travers l'exploration de données et la modélisation prédictive. L'objectif est d'identifier les indicateurs clés et de développer un modèle capable de détecter les risques de dépression chez la population étudiante.
